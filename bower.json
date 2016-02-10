@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "description": "Hello World",
+  "main": "index.js",
+  "authors": [
+    "Diego Alves <dfqalves@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
